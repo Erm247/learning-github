@@ -1,3 +1,3 @@
-print("Привет, GitHub")
+print("Версия с GitHub")
 
 
